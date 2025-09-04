@@ -1,5 +1,10 @@
-## Hi there 👋
+<h1>Hello! I'm Anastasia 👩‍💻</h1> 
+<div id="header" align="center">
+  <img src="https://media.tenor.com/_mYZWyrW3AUAAAAi/peach-goma-pc-night-keyboard-smashing.gif" />
+</div>
+<p>I'm student at St.Petersburg Polytechnic University of Peter the Great, Software Engineer.</p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bagrova-av)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **bagrova-av/bagrova-av** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
